@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">StackExchange</string>
+    <string name="error_text">Error during loading Data</string>
+    <string name="artist_image">Artist Image</string>
+    <string name="label_username">Username:</string>
+    <string name="label_reputation">Reputation:</string>
+    <string name="label_badge">Badge:</string>
+    <string name="label_location">Location:</string>
+    <string name="label_creation_date">Creation Date:</string>
+    <string name="no_data">Check Internet Connection</string>
 </resources>
